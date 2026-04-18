@@ -1,6 +1,5 @@
 StudyLend
-
-On-chain student savings pools and microloans — SEA
+( On-chain student savings pools and microloans — SEA )
 
 Problem
 
