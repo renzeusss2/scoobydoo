@@ -3,10 +3,12 @@ StudyLend
 
 
 Problem
+
 A Nursing student in Cebu needs ₱2,000 for board exam review materials two weeks before the test. Her monthly stipend hasn't arrived, and informal 5-6 lenders charge 20% weekly interest — so she borrows from a classmate with no receipt, no repayment plan, and a damaged friendship as the consequence.
 
 
 Solution
+
 Student orgs create a shared USDC savings pool (an on-chain paluwagan) via Soroban smart contract. Members deposit savings; any member can request a microloan instantly. The contract enforces caps and interest, disburses USDC in one Stellar transaction, and repayments grow the pool for the next student — no bank, no 5-6, no IOU.
 
 
