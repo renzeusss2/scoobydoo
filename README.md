@@ -29,4 +29,6 @@ Where - PH, ID, VN — metro + provincial
 Pain - Cash-flow gaps before exams
 Incentive - Zero collateral, 2% flat vs 5-6
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84ee804c-ecb7-4e67-b4fe-ffe21d17d1fb" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86320492-bf57-4dc2-9ee6-2afbc67e2a6f" />
