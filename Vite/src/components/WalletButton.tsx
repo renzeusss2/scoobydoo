@@ -8,6 +8,8 @@ export default function WalletButton() {
   const { connected, connecting, connect } = useWallet();
   const [showCreatePool, setShowCreatePool] = useState(false);
 
+  const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
   if (connected) {
     return (
       <>
@@ -23,6 +25,23 @@ export default function WalletButton() {
           </Portal>
         )}
       </>
+    );
+  }
+
+  if (isMobile) {
+    return (
+      <div style={{
+        fontSize: 11,
+        color: "var(--amber)",
+        background: "var(--amber-light)",
+        border: "1px solid rgba(255,181,71,0.25)",
+        borderRadius: "var(--radius)",
+        padding: "6px 12px",
+        fontFamily: "var(--mono)",
+        whiteSpace: "nowrap",
+      }}>
+        🖥️ Desktop only
+      </div>
     );
   }
 
