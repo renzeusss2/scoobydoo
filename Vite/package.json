@@ -1,0 +1,26 @@
+{
+  "name": "studylend",
+  "version": "1.0.0",
+  "description": "Soroban Community Treasury Frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@stellar/freighter-api": "^1.7.1",
+    "@stellar/stellar-sdk": "^15.0.1",
+    "@tanstack/react-query": "^5.99.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.14.1",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.28",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^5.4.21"
+  }
+}
