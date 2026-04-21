@@ -106,7 +106,7 @@ Filipino and SEA students often rely on informal lending (5-6 scheme) with inter
 
 ## 👨‍💻 Developer
 
-Built solo by **renzeusss2** for the Stellar Soroban hackathon challenge.  
+Built solo by **renzeusss2** for the Build on Stellar Bootcamp Philippines.  
 Made with ❤️ for SEA students 🇵🇭
 
 ---
